@@ -1,8 +1,0 @@
-title: Grégoire Guillet
-description: Cryosphere Researcher — University of Oslo
-url: "https://yourusername.github.io"
-baseurl: ""
-
-# Build settings
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
