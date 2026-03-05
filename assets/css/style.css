@@ -24,7 +24,7 @@ html { scroll-behavior: smooth; }
 body {
   font-family: var(--sans);
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: var(--text);
   background: var(--bg);
@@ -150,7 +150,7 @@ main hr {
 }
 
 main img {
-  max-width: 220px;
+  max-width: 300px;
   border-radius: 10px;
   box-shadow: 0 4px 24px rgba(0,0,0,0.08);
   float: right;
@@ -271,10 +271,10 @@ main > * {
 
 /* ── RESPONSIVE ── */
 @media (max-width: 680px) {
-  main img {
+main img {
     float: none;
     margin: 0 0 1.5rem 0;
-    max-width: 180px;
+    max-width: 250px;
   }
 
   main h1 { font-size: 1.6rem; }
