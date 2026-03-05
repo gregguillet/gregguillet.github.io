@@ -1,8 +1,0 @@
-title: Greg Guillet
-description: Research Scientist — University of Oslo
-url: "https://gregguillet.github.io"
-baseurl: ""
-
-# Build settings
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
