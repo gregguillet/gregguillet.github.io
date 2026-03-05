@@ -6,10 +6,10 @@ permalink: /about/
 
 # About me
 
-**Name:** Grégoire Guillet
-**Position:** Researcher
-**Institution:** University of Oslo – Department of Geosciences
-**ORCID:** [0000-0001-9268-3002](https://orcid.org/0000-0001-9268-3002)
+**Name:** Grégoire Guillet  
+**Position:** Researcher  
+**Institution:** University of Oslo – Department of Geosciences  
+**ORCID:** [0000-0001-9268-3002](https://orcid.org/0000-0001-9268-3002)  
 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=f5fevO4AAAAJ)
 
 ## Research Themes
