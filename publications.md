@@ -16,8 +16,6 @@ permalink: /publications/
 
 - **Mapping red algal blooms and their albedo-reducing effect on seasonal snowfields at Hardangervidda, Southern Norway.** Chevrollier, L.-A., Wehrlé, A., Cook, J.M., Guillet, G., Benning, L.G., Anesio, A.M., et al. *Frontiers in Earth Science*, 13, 2025. [doi](https://doi.org/10.3389/feart.2025.1508719)
 
-- **Mass balance modeling of glaciers in Switzerland using machine learning.** Moudgil, P.S., Vaate, I.B., Hock, R., Guillet, G. 2025.
-
 ## 2024
 
 - **Observing glacier elevation changes from spaceborne optical and radar sensors — an inter-comparison experiment using ASTER and TanDEM-X data.** Piermattei, L., Zemp, M., Sommer, C., Brun, F., Braun, M.H., Andreassen, L.M., ..., Guillet, G., et al. *The Cryosphere*, 18(7), 3195–3230, 2024. [doi](https://doi.org/10.5194/tc-18-3195-2024)
