@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300;8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a href="{{ '/' | relative_url }}" class="nav-brand">{{ site.title }}</a>
+      <ul class="nav-links">
+        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+        <li class="dot">•</li>
+        <li><a href="{{ '/research' | relative_url }}" {% if page.url == '/research/' %}class="active"{% endif %}>Research</a></li>
+        <li class="dot">•</li>
+        <li><a href="{{ '/publications' | relative_url }}" {% if page.url == '/publications/' %}class="active"{% endif %}>Publications</a></li>
+        <li class="dot">•</li>
+        <li><a href="{{ '/about' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About me</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    &copy; {{ site.time | date: '%Y' }} {{ site.title }} &mdash; Powered by GitHub Pages
+  </footer>
+
+</body>
+</html>
