@@ -20,7 +20,7 @@ title: Home
 
 ---
 
-# Grégoire Guillet
+# Greg Guillet
 
 ![Photo](assets/images/photo.jpg)
 
