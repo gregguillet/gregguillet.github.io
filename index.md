@@ -20,7 +20,7 @@ title: Home
 --->
 ---
 
-# Greg Guillet
+# Gregoire Guillet
 
 ![Photo](assets/images/photo.jpg)
 
@@ -42,4 +42,4 @@ I hold a Ph.D. in Earth Sciences from the Université Savoie-Mont Blanc (France)
   <span class="interest-tag">Water Resources</span>
 </div>
 
-<a href="mailto:gregoirg@geo.uio.no" class="contact-link">gregoirg@geo.uio.no</a>
+<a href="mailto:gregoire.guillet@geo.uio.no" class="contact-link">gregoire.guillet@geo.uio.no</a>
