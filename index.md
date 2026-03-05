@@ -2,10 +2,10 @@
 layout: default
 title: Home
 ---
-
+<!--
 <div class="posts-section">
 <h2>Recent Posts</h2>
-<!--
+
 <a href="#" class="post-item">
   <span class="post-date">Jun 18, 2025</span>
   <span class="post-title">Global Detection of Glacier Surges (2000–2024)</span>
@@ -17,7 +17,7 @@ title: Home
 </a>
 
 </div>
-
+--->
 ---
 
 # Greg Guillet
