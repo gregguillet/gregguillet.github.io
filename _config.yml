@@ -1,8 +1,27 @@
 title: Gregoire Guillet
-description: Research Scientist - Applied mathematics for the cryosphere — University of Oslo
+description: Research scientist at the University of Oslo
 url: "https://gregguillet.github.io"
 baseurl: ""
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research
+  - title: Publications
+    url: /publications
+  - title: About me
+    url: /about
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

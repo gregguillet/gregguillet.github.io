@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Research
+Here is a list of my current and past research projects.
 
 ## Glacier Dynamics and Surge-Type Glaciers
 
