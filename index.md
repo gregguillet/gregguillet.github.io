@@ -13,13 +13,8 @@ Before joining UiO, I was a postdoctoral research fellow in Civil and Environmen
 
 ## Research interests:
 
-- Cryospheric Modeling
-- Bayesian Methods
-- Data Assimilation
-- Machine Learning
-- Uncertainty Quantification
-- Snow Avalanches
-- Glacier Dynamics
-- Water Resources
+- Cryospheric hazards : snow avalanches, glacier surges
+- Cryospheric modeling : glacier flow/sliding and mass balance
+- Bayesian Methods, Data Assimilation and Machine Learning
 
 [gregoirg@geo.uio.no](mailto:gregoirg@geo.uio.no)
